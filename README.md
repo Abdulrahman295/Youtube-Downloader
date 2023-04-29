@@ -4,7 +4,7 @@
 This is a Python program that allows the user to download YouTube videos or audio in the desired quality and save them to a local directory. The program has a simple graphical user interface using the `tkinter` module. 
 
 ### Dependencies:
-- tkinter
+- CustomTkinter
 - PIL
 - yt_dlp
 
@@ -18,3 +18,6 @@ This is a Python program that allows the user to download YouTube videos or audi
 
 The progress of the download and the estimated time will be displayed . Once the download is complete, the result label will display "Downloaded". If there is an error, the result label will display "Invalid link" or "Please select a path" or "Please select a quality".
 
+<p align="center">
+  <img src="[https://github.com/Abdulrahman295/Pong-Game/blob/main/game_screenshot.png](https://github.com/Abdulrahman295/Youtube-Downloader/blob/main/Program-Screenshot%20.png)" alt="program screenshot">
+</p>
